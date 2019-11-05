@@ -1,0 +1,15 @@
+{
+  "name": "mange-reader-reader-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.10.2"
+  },
+  "scripts": {
+    "watch": "parcel src/index.html"
+  }
+}
